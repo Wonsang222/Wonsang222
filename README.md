@@ -7,5 +7,3 @@
 <p align="left">
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wonsang222&show_icons=true&locale=en&layout=compact" alt="wonsang222" /></p>
